@@ -1,73 +1,200 @@
-Privacy Policy for Clutch
-Last updated: 13.08.25
+**1. Introduction**
 
-1. Introduction
-Welcome to Clutch (“we”, “us”, or “our”). We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile app Clutch.
+
+Welcome to Clutch ("we", "us", or "our"). We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile app Clutch.
+
+
 By using our app, you agree to the collection and use of information as described here.
 
-2. Information We Collect
-We collect the following personal data when you use Clutch:
-Name
+
+**Age Requirement**: You must be at least 18 years old to use Clutch. By using this app, you confirm that you are 18 or older.
 
 
-Email address
 
 
-Username
+**2. Information We Collect**
 
 
-We also collect usage data to improve the app’s performance, but this does not personally identify you.
+**Personal Information:**
+• Email address (required for account creation)
+• Username (chosen by you)
+• Profile picture (optional, uploaded by you)
+• Bio/description (optional, provided by you)
+• Supported football teams (optional, for personalisation)
 
-3. Use of Your Information
+
+**User-Generated Content:**
+• Match reviews and ratings
+• Comments on reviews
+• Player ratings and feedback
+• Profile information you choose to share
+
+
+**Usage Data:**
+• App usage statistics and analytics
+• Device information (device type, operating system)
+• App performance data
+• Error logs and crash reports
+
+
+**Authentication Data:**
+• Login credentials (stored securely via Firebase)
+• Authentication tokens
+• Session information
+
+
+
+
+**3. How We Use Your Information**
+
+
 We use your personal data to:
-Provide, operate, and maintain the app
+• Create and manage your account
+• Provide football match reviews and ratings functionality
+• Enable social features (likes, comments, sharing)
+• Personalise your experience based on your supported teams
+• Send important app updates and notifications
+• Improve app performance and user experience
+• Detect and prevent fraud or abuse
+• Comply with legal obligations
+• Provide customer support
 
 
-Manage your account and authenticate your identity
 
 
-Comply with legal obligations
+**4. Data Sharing and Third-Party Services**
 
-4. Third-Party Services
-We use Firebase by Google to host and manage your data securely. Firebase may store and process your data outside of your home country, including in the United States. Firebase complies with GDPR and uses Standard Contractual Clauses and the Data Privacy Framework to protect your data.
 
-5. International Data Transfers
-Because we operate globally, your data may be transferred to and stored in countries outside your residence, including the United States. We take steps to ensure your data is protected during these transfers by using appropriate legal safeguards like Standard Contractual Clauses.
+**Firebase Services:**
+We use Google Firebase for:
+• User authentication and account management
+• Data storage (Firestore database)
+• File storage (profile pictures)
+• Analytics and crash reporting
 
-6. Children’s Privacy
-Clutch is not intended for users under the age of 18. We do not knowingly collect personal data from children under 18. If we become aware that we have inadvertently collected personal data from a user under 18 without parental consent, we will take steps to delete that information promptly.
+
+**Football Data APIs:**
+We integrate with API-FOOTBALL to display:
+• Match schedules and results
+• Team information and statistics
+• Player data and ratings
+
+
+**Data Sharing:**
+We do NOT sell your personal data to third parties. We may share data only when:
+• Required by law or legal process
+• Necessary to protect our rights or safety
+• With your explicit consent
+• To prevent fraud or abuse
+
+
+
+
+**5. International Data Transfers**
+
+
+Because we operate globally, your data may be transferred to and stored in countries outside your residence, including the United States, through our service providers like Google Firebase. We use providers that comply with international data protection standards.
+
+
+
+
+**6. Children's Privacy**
+
+
+Clutch is NOT intended for users under the age of 18. Users are responsible for confirming they meet the age requirement. We do not knowingly collect personal data from children under 18. If we become aware that we have inadvertently collected personal data from a user under 18 without parental consent, we will take steps to delete that information promptly.
+
+
 If you are a parent or guardian and believe your child has provided us with personal data without your consent, please contact us at privacy@downloadclutch.com so we can take appropriate action.
 
-7. Your Rights
-Under the GDPR, you have rights regarding your personal data, including:
-Access your data
 
 
-Correct or update your data
+
+**7. Content Moderation**
 
 
-Request deletion of your data
+We use AI-powered content moderation to:
+• Filter inappropriate or offensive content
+• Detect hate speech and harassment
+• Prevent spam and abuse
+• Ensure community safety
 
 
-Object to or restrict processing
+All user-generated content is subject to our community guidelines and may be reviewed or removed if it violates our policies.
 
 
-Data portability
 
 
-Withdraw consent at any time
+**8. Your Rights**
 
 
-To exercise these rights, please contact us at privacy@downloadclutch.com.
+Under GDPR and other privacy laws, you have rights, including:
+• Access your personal data
+• Correct or update your data
+• Request deletion of your account and data
+• Object to or restrict processing
+• Data portability (export your data)
+• Withdraw consent at any time
+• Complain with supervisory authorities
 
-8. Data Retention
-We keep your personal data only as long as necessary to provide the service or comply with legal obligations.
 
-9. Security
-We implement reasonable technical and organizational measures to protect your data against unauthorized access, alteration, disclosure, or destruction.
+To exercise these rights, contact us at privacy@downloadclutch.com.
 
-10. Contact Us
-For any questions about this Privacy Policy or your data, contact us at:
+
+
+
+**9. Data Retention**
+
+
+We retain your data as follows:
+• Account data: Until you delete your account
+• User-generated content: Until you delete it or your account
+• Usage analytics: Up to 2 years
+• Authentication logs: Up to 1 year
+• Support communications: Up to 3 years
+
+
+You can delete your account and all associated data at any time through the app settings.
+
+
+
+
+**10. Security Measures**
+
+
+We implement security measures, including:
+• Encrypted data transmission (HTTPS/TLS)
+• Secure authentication via Firebase
+• Regular security audits
+• Access controls and monitoring
+• Data backup and recovery procedures
+
+
+
+
+**11. Updates to This Policy**
+
+
+We may update this Privacy Policy periodically. We will notify you of significant changes through:
+• In-app notifications
+• Email notifications (if provided)
+• Updated policy in the app
+
+
+Continued use of the app after changes constitutes acceptance of the updated policy.
+
+
+
+
+**12. Contact Information**
+
+
+For privacy-related questions or concerns:
 Email: privacy@downloadclutch.com
+Response time: Within 48 hours
 
-Please review this policy regularly as we may update it.
+
+For general support:
+Email: hello@downloadclutch.com
+
+
+**Last Updated**: August 2025
